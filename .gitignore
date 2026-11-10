@@ -1,0 +1,6 @@
+.env
+*.keystore
+*.jks
+local.properties
+.ipynb_checkpoints/
+__pycache__/
